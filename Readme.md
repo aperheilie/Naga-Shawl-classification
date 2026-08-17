@@ -38,7 +38,7 @@ The proposed system uses multiple deep learning models for image classification.
 
 The individual models generate probability distributions for the different shawl classes. These predictions are then combined using a **decision fusion strategy** to obtain the final classification result.
 
-# The models used in the current implementation include:
+### The models used in the current implementation include:
 
 - Custom CNN
 - MobileNetV2
