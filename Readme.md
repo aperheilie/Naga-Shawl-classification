@@ -1,7 +1,7 @@
 
 # A Novel Deep Learning-Based Multi-Model Decision Fusion System for the Classification of Naga Traditional Shawls
 
-Overview
+##Overview
 
 This project presents a deep learning-based image classification system for identifying and classifying traditional Naga shawls from images.
 
@@ -9,7 +9,7 @@ The proposed system employs a **multi-model decision fusion approach**, combinin
 
 The project is part of an ongoing research study and is intended to contribute to the digital documentation, recognition, and preservation of traditional Naga textile heritage.
 
-#Objectives
+##Objectives
 
 - To develop an automated image-based classification system for traditional Naga shawls.
 - To investigate the effectiveness of deep learning models for Naga shawl classification.
